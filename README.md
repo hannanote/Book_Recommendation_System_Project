@@ -2,5 +2,6 @@
 
 Fantasy Genre
 
-Item-Based Recommendation
-User-Based Recommendation
+##### Item-Based Recommendation
+##### User-Based Recommendation
+
