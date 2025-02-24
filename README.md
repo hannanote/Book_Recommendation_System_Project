@@ -2,7 +2,7 @@
 
 ### Project Overview: 
 
-Fantasy Genre
+Fantasy Genre Selected
 
 ##### Item-Based Recommendation
 ##### User-Based Recommendation
