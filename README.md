@@ -9,9 +9,10 @@ RMSE, and SVD measures. These results showed that the system could accurately re
 books based on the selection of one book or one user. The recommender system aimed to provide 
 users with personalized book recommendations that matched their interests and preferences. 
 
-##### Item-Based Recommendation
+#### Item-Based Recommendation
 RMSE (Cosine Similarity, Euclidean Distance, Pearson Similarity)
-##### User-Based Recommendation
+#### User-Based Recommendation
+RMSE (Cosine Similarity, Euclidean Distance, Pearson Similarity)
 
 ### Project Result
 
