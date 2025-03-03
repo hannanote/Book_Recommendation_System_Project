@@ -15,6 +15,11 @@ RMSE (Cosine Similarity, Euclidean Distance, Pearson Similarity)
 RMSE (Cosine Similarity, Euclidean Distance, Pearson Similarity)
 
 ### Project Result
+Advantages of item-based recommendation 
+Advantages of user-based recommendation
+
+### Next Steps:
+
 
 ### References
 https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home
