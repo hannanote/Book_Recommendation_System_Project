@@ -10,7 +10,7 @@ The recommendation engine achieved an impressive RMSE of 0.0038, demonstrating i
 
 ### Objective
 
-+Provide personalized book recommendations to enhance students’ book-finding experience
++ Provide personalized book recommendations to enhance students’ book-finding experience
 + Design a recommendation algorithm with high predictive accuracy
   
 ### Technical Approach
@@ -32,8 +32,6 @@ The recommendation engine achieved an impressive RMSE of 0.0038, demonstrating i
 Gained insights into designing and optimizing data-driven recommendation systems
 Learned to compare and apply similarity metrics effectively in real-world scenarios
 Recognized the critical role of algorithms in improving user experience
-
-### Next Steps:
 
 
 ### References
